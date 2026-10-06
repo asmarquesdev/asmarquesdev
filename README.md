@@ -1,7 +1,7 @@
 ## Hi there 👋
 <br>
 <br>
-Meu nome é Aldair, sou Programador Front-End, Desenvolvedor web e estudante de ADS, atualmente desenvolendo projetos em:
+Meu nome é Aldair, sou Programador Front-End / Full-stack, Desenvolvedor web e estudante de ADS, atualmente desenvolendo projetos em:
 <br>
 <br>
 
